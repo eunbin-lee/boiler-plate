@@ -1,4 +1,4 @@
-I'm following cloning Youtube website with John ahn's lecture.
+I'm following cloning Youtube website with John ahn's lecture. <br>
 This application is worked via ReactJS, node.js, and mongoDB.
 
 <br>
@@ -10,6 +10,8 @@ To use this application,
 2. put mongoDB info into dev.js file
 3. Type " npm install " inside the root directory ( Download Server Dependencies )
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+
+<br>
 
 You can watch the tutorial for this app.
 
