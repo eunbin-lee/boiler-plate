@@ -1,7 +1,7 @@
 I'm following cloning Youtube website with John ahn's lecture. <br>
 This application is worked via ReactJS, node.js, and mongoDB.
 <br><br>
-You need to create uploads folder in root and thumbnails folder in uploads folder.
+(You need to create uploads folder in root and thumbnails folder in uploads folder.)
 
 <br>
 <br>
